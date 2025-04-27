@@ -1,0 +1,3 @@
+# Enable Directory Listing and Ignore index.php
+Options +Indexes
+DirectoryIndex disabled
